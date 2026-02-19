@@ -186,3 +186,11 @@ flowchart TD
 - 建议 2（高优先级）：围绕 `pi-coding-agent` + `pi-mom` 形成“个人到团队”双场景增长漏斗。
 - 建议 3（中优先级）：针对 `pi-pods` 输出“成本对比模板”，帮助客户做公有 API vs 自托管决策。
 - 建议 4（中优先级）：在 `web-ui` 层增加更强产品化模板（行业场景预设），降低非技术团队试错成本。
+
+---
+
+## 9. 建议继续阅读
+
+- 下一篇：[`02-user-journey.md`](./02-user-journey.md)
+- 对照代码目录：`packages/ai/`、`packages/agent/`、`packages/coding-agent/`
+

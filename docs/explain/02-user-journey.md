@@ -174,3 +174,11 @@ mindmap
 - 建议 2（高优先级）：为 Slack 场景加入更明确的“线程摘要模板”，降低管理者阅读成本。
 - 建议 3（中优先级）：在 Web 组件层提供行业模板（客服、运营、内部知识问答）加速 PM 试验。
 - 建议 4（中优先级）：将 pods 的成本与性能指标可视化，帮助非技术决策者理解 ROI。
+
+---
+
+## 10. 建议继续阅读
+
+- 下一篇：[`03-core-flows.md`](./03-core-flows.md)
+- 对照代码目录：`packages/mom/`、`packages/web-ui/`、`packages/coding-agent/`
+

@@ -235,3 +235,11 @@ flowchart LR
 - 建议 2（高优先级）：针对高频场景输出官方技能包，减少每个团队重复造扩展。
 - 建议 3（中优先级）：补充“会话压缩可解释机制”，让用户知道哪些信息被摘要化。
 - 建议 4（中优先级）：在 pods 场景提供“模型推荐矩阵”（质量/延迟/成本）辅助选型。
+
+---
+
+## 11. 建议继续阅读
+
+- 下一篇：[`04-risk-and-opportunities.md`](./04-risk-and-opportunities.md)
+- 对照代码目录：`packages/agent/`、`packages/ai/`、`packages/pods/`
+
